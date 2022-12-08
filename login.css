@@ -1,0 +1,134 @@
+.firstpart{
+    background-color: rgb(36, 37, 37);
+    color: #fff;
+    width: 760px;
+    height: 755px;
+    padding: 120px;
+
+}
+
+.header{
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: rgb(199, 192, 181);
+}
+
+.subheader{
+    margin-top: 30px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 14px;
+    color: grey;
+
+
+}
+
+.form-class{
+    margin-top: 40px;
+}
+
+.mybutton{
+    border-radius: 8px;
+    height: 50px;
+    background-color: #176fff;
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: whitesmoke;
+    font-size: 20px;
+}
+
+.pass{
+    border-radius: 8px;
+    height: 50px;
+    background-color: rgb(41,37,37);
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #176fff;
+    font-size: 20px;
+}
+
+.pass:hover{
+    border-radius: 8px;
+    height: 50px;
+    background-color: rgba(145, 252, 234, 0.692);
+    border: none;
+    justify-content: center;
+    display: flex;
+    padding-top: 10px;
+    margin: 20px;
+    color: #fff;
+    font-size: 20px;
+}
+
+input{
+    background-color: rgba(70,90,126,0.4) !important;
+    color: fieldtext !important;
+    writing-mode: horizontal-tb !important;
+    text-rendering: normal;
+    letter-spacing: normal;
+    line-height: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    appearance: auto;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    padding: 1px 2px;
+}
+
+
+.headtext{
+    /* padding: 50px; */
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.subheadtext{
+    /* padding: 50px; */
+    margin: 10px;
+    text-align: center;
+    align-items: center;
+}
+
+.title{
+    text-align: center;
+}
+
+.buttomtext{
+    text-align: center;
+    align-items: center;
+    /* padding: 10px; */
+    margin: 10px;
+    padding-right:100px ; 
+}
+
+img{
+    height: 300px;
+    width: 300px;
+    margin-left: 100px; 
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+}
+
+.secondpart{
+    background-color: rgb(36, 37, 37);
+    color: #fff;
+    width: 760px;
+    height: 755px;
+    padding: 120px;
+
+}
